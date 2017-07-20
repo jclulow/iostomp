@@ -1,0 +1,3 @@
+[submodule "deps/list"]
+	path = deps/list
+	url = git://github.com/joyent/illumos-list.git
